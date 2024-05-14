@@ -1,0 +1,23 @@
+body {
+	background: url('./assets/img/parker.png') no-repeat;
+
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+	background-size: cover;
+}
+
+*{
+	font-family: sans-serif;
+	box-sizing: border-box;
+}.container{
+    border: 1px solid black;
+    padding-top: 50px;
+    padding-right: 10px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    background-color: #fff ;
+    text-align: center;
+    
+}
